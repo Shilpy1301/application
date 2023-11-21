@@ -1,3 +1,7 @@
 This is file C
 Let's make a change
+<<<<<<< HEAD
 This is for squash merge
+=======
+This is for squash m
+>>>>>>> FeatureA
